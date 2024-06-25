@@ -23,5 +23,5 @@ Finalized code for databse creation (part 4):
 - https://docs.python.org/3/library/re.html
 
 ### Various Processes
-- -https://dbeaver.com/docs/dbeaver/SQL-Execution/#:~:text=You%20can%20execute%20one%20query,script%2C%20or%20a%20whole%20script.
-- 
+- https://dbeaver.com/docs/dbeaver/SQL-Execution/#:~:text=You%20can%20execute%20one%20query,script%2C%20or%20a%20whole%20script.
+- https://stackoverflow.com/questions/18988406/splitting-json-data-in-python
