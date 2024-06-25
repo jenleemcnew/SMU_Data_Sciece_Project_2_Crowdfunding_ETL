@@ -12,7 +12,7 @@ From given starter code, contact.xlsx, and crowdfunding.xlsx:
 ![image](https://github.com/jenleemcnew/Crowdfunding_ETL/assets/45104139/7ddb406b-511c-45d3-ad43-92a089e7f5ce)
 
 
-Finalized code for DataFrame creation (parts 1-3) : 
+Finalized code for DataFrame creation (parts 1-3): 
 
 Finalized code for databse creation (part 4): 
 
